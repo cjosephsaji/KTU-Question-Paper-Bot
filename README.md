@@ -1,5 +1,5 @@
 # KTU-Question-Paper-Bot
-Retrieves PYQ Papers from the JEC Digital Library
+Retrieves PYQ Papers from the **JEC Digital Library**
 
 
 # 🎓 Question Paper Bot
