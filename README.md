@@ -4,7 +4,7 @@ Retrieves PYQ Papers from the **JEC Digital Library**
 
 # 🎓 Question Paper Bot
 
-A Telegram bot that helps users search, find, and download question papers from an institutional repository. The bot scrapes question papers from a DSpace repository and delivers them directly to users via Telegram.
+A Telegram bot that helps users search, find, and download PYQ papers. The bot scrapes question papers from the JEC Digital Library and sends them to users via Telegram.
 
 ### Installation
 
